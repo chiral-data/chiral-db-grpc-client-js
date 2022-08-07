@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+proto_generated_js
+proto_generated_ts
