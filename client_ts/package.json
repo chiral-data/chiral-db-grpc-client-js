@@ -1,6 +1,6 @@
 {
     "name": "chiral-db-grpc-client-ts",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "ChiralDB gRPC TypeScript Client",
     "main": "dist/client.js",
     "types": "dist/client.d.ts",
